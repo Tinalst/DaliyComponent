@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="63px" viewBox="0 0 52 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>pic_empty</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="7.09907407" y="20.29308" width="8.38981481" height="2.5297619" rx="1.26488095"></rect>
+        <filter x="-244.3%" y="-731.3%" width="588.7%" height="1720.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M8.39680965,27.0853175 L23.2010089,27.0853175 C23.8995833,27.0853175 24.4658898,27.651624 24.4658898,28.3501984 L24.4658898,28.3501984 C24.4658898,29.0487729 23.8995833,29.6150794 23.2010089,29.6150794 L8.39680965,29.6150794 C7.69823519,29.6150794 7.13192869,29.0487729 7.13192869,28.3501984 L7.13192869,28.3501984 C7.13192869,27.651624 7.69823519,27.0853175 8.39680965,27.0853175 Z" id="path-3"></path>
+        <filter x="-118.3%" y="-731.3%" width="336.5%" height="1720.7%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="7.09907407" y="33.8313492" width="17.3339611" height="2.5297619" rx="1.26488095"></rect>
+        <filter x="-118.3%" y="-731.3%" width="336.5%" height="1720.7%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="xwalllet-5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ETH-钱包详情-空" transform="translate(-158.000000, -357.000000)">
+            <g id="pic_empty" transform="translate(159.000000, 352.000000)">
+                <g>
+                    <g transform="translate(28.400986, 28.634380) rotate(-10.000000) translate(-28.400986, -28.634380) translate(3.845430, 4.551047)" fill-rule="nonzero">
+                        <path d="M12.2393033,11.4159636 L12.2393033,4.68461778 C12.2393033,4.16301552 12.6621454,3.74017334 13.1837477,3.74017334 C13.1973592,3.74017334 13.2109691,3.74046759 13.2245679,3.7410559 L42.3623815,5.00161066 C43.3780612,5.04555081 44.1767753,5.88549392 44.1695827,6.90209822 L43.9193985,42.263181 C43.9157266,42.7821628 43.4939724,43.2009436 42.9749777,43.2009436 L37.3947725,43.2009436" id="Path" stroke="#D0D1D4" stroke-width="2.5" stroke-linejoin="round" transform="translate(28.204467, 23.470558) rotate(15.000000) translate(-28.204467, -23.470558) "></path>
+                        <path d="M1,8.06012177 L20.0697484,8.06012177 C20.5280351,8.06012177 20.9724202,8.21751214 21.3285467,8.50595737 L30.9322587,16.2845012 C31.4010988,16.6642391 31.6734604,17.2353315 31.6734604,17.8386656 L31.6734604,46.5626338 C31.6734604,47.1149185 31.2257452,47.5626338 30.6734604,47.5626338 L1,47.5626338 C0.44771525,47.5626338 6.76353751e-17,47.1149185 0,46.5626338 L-1.11022302e-15,9.06012177 C-1.1778584e-15,8.50783702 0.44771525,8.06012177 1,8.06012177 Z" id="Rectangle-17-Copy" stroke="#D0D1D4" stroke-width="2.5" stroke-linejoin="round"></path>
+                        <polygon id="Triangle-4-Copy" stroke="#D0D1D4" stroke-width="2.5" stroke-linejoin="round" points="20.4491577 8.18217861 31.4573447 17.2384952 20.4491577 17.2384952"></polygon>
+                        <g id="Rectangle-24-Copy-3">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#D0D1D4" xlink:href="#path-1"></use>
+                        </g>
+                        <g id="Rectangle-24-Copy-4">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                            <use fill="#D0D1D4" xlink:href="#path-3"></use>
+                        </g>
+                        <g id="Rectangle-24-Copy-5">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                            <use fill="#D0D1D4" xlink:href="#path-5"></use>
+                        </g>
+                    </g>
+                    <ellipse id="Oval" fill="#E7E7E7" opacity="0.800000012" cx="26.7690972" cy="64.6944444" rx="21.1024306" ry="3.30555556"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,54 @@
+@import "fonts";
+:root {
+  box-sizing: border-box;
+  font-size: 14px;
+}
+*,
+::after,
+::before {
+  box-sizing: border-box;
+  margin: 0;
+}
+html, body {
+  font-family:"HelveticaNeueLTPro-Re","Helvetica Neue","PingFang SC","Microsoft YaHei","Simsun",Helvetica,Arial,Verdana,sans-serif;
+  width: 100%;
+  height: 100%;
+  font-weight: 400;
+  /*for custom*/
+  line-height: 1.2;
+  letter-spacing: 0.04em; /*1/100增量*/
+}
+/*for custom*/
+h1, h2, h3, h4 {
+  /*font-family: Sansita, Serif;*/
+  letter-spacing: 0.03em;
+}
+
+/*for custom*/
+body a {
+  //color: var(--yellow);
+  cursor: pointer;
+  /*transition: color 0.3s ease-out;*/
+}
+body a:visited {
+  /*color: var(--white);*/
+}
+body a:hover {
+  /*color: var(--white);*/
+}
+body a:active {
+  /*color: var(--light-yellow);*/
+}
+input,textarea {
+  outline: none;
+}
+p {
+  word-break: break-word;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+

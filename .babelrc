@@ -1,0 +1,24 @@
+{
+  "presets": [
+    "stage-3",
+    [
+      "@babel/preset-env",
+      {
+        "targets": {
+          "browsers": [
+            "ie >= 8",
+            "Firefox >= 20",
+            "Safari >= 5",
+            "Android >= 58",
+            "Ios >= 6",
+            "last 1 version"
+          ]
+        }
+      }
+    ]
+  ],
+  "plugins": [
+    "@babel/plugin-transform-runtime",
+    "@babel/plugin-syntax-dynamic-import"
+  ]
+}

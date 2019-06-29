@@ -1,0 +1,22 @@
+/* eslint-disable */
+@import "./ulitity";
+@import "basic/global-variable";
+
+.section-container{
+  margin:  1em 0.875em;
+  padding-bottom: 1em;
+}
+
+.opened-info {
+  padding: pxToEm(18.5) pxToEm(18.5) pxToEm(4);
+  color: $pdx-gray-2;
+  font-size: pxToEm(12);
+}
+.opened-info:nth-child(2){
+  padding-top: 0;
+  padding-bottom: pxToEm(16);
+}
+.opened-info-container {
+  border-bottom: 0.5px solid #8080801c;
+}
+
